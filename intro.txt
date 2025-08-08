@@ -1,0 +1,11 @@
+command to push to github
+
+// TO TRACK
+git add .
+
+
+// To COMMIT
+git commit --m"new update"
+
+//TO push
+git push
